@@ -4,8 +4,8 @@ go 1.24.2
 
 require (
 	github.com/KyberNetwork/cclog v1.0.1
-	github.com/TheZeroSlave/zapsentry v1.9.0
-	github.com/getsentry/sentry-go v0.12.0
+	github.com/TheZeroSlave/zapsentry v1.23.0
+	github.com/getsentry/sentry-go v0.27.0
 	github.com/gin-contrib/cors v1.7.5
 	github.com/gin-contrib/pprof v1.3.0
 	github.com/gin-gonic/gin v1.10.0
@@ -16,7 +16,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/shopspring/decimal v1.2.0
 	github.com/urfave/cli/v2 v2.10.2
-	go.uber.org/zap v1.20.0
+	go.uber.org/zap v1.24.0
 )
 
 require (
@@ -50,7 +50,6 @@ require (
 	golang.org/x/net v0.38.0 // indirect
 	golang.org/x/sys v0.31.0 // indirect
 	golang.org/x/text v0.23.0 // indirect
-	golang.org/x/xerrors v0.0.0-20220517211312-f3a8303e98df // indirect
 	google.golang.org/protobuf v1.36.6 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
