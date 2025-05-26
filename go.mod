@@ -8,7 +8,7 @@ require (
 	github.com/getsentry/sentry-go v0.12.0
 	github.com/gin-contrib/cors v1.7.5
 	github.com/gin-contrib/pprof v1.3.0
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.10.1
 	github.com/golang-migrate/migrate/v4 v4.15.1
 	github.com/jmoiron/sqlx v1.3.4
 	github.com/joho/godotenv v1.4.0
